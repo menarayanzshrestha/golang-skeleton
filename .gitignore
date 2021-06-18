@@ -1,0 +1,7 @@
+.env
+.vscode/
+log/access.log
+log
+.idea/
+
+__debug_bin
